@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="Main">
-        <h1>CryptoCurrency Prices</h1>
+        <h1>CryptoCurrency Prices</h1>                  
         <input
           type="text"
           placeholder="search"
